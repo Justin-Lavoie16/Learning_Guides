@@ -8,7 +8,7 @@ This program is the "Space Aliens" program on the PyBadge
 
 import stage
 import ugame
-
+import constants
 
 def game_scene() -> None:
     """
