@@ -129,5 +129,3 @@ def game_scene() -> None:
 
 if __name__ == "__main__":
     menu_scene()
-if __name__ == "__main__":
-    game_scene()
